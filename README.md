@@ -1,2 +1,2 @@
-# Genetic-Algorithm
+# Generic-Algorithm
 Genetic Algorithm to fulfill my Artificial Intelligence task
